@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Xbindas
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Xbindas_Owner
 
 
 import re
@@ -11,9 +11,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Xbindas
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Xbindas_Owner
 
 
 id_pattern = re.compile(r'^.\d+$')
@@ -25,9 +25,9 @@ def is_enabled(value, default):
     else:
         return default
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Xbindas
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Xbindas_Owner
       
 # Owner Information
 API_ID = int(environ.get("API_ID", "26668609"))
